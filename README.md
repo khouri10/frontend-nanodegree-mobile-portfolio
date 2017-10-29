@@ -8,4 +8,4 @@ Faça o download do arquivo zip no GitHub para uma pasta local e abra o arquivo 
 
 ## views/js/main.js
 	As pizzas se movendo no fundo da página foram eliminadas para melhor performace e visual mais limpo.
-	
+	Refatorada a função de mudar o tamanho da pizza ao alterar o slider.
