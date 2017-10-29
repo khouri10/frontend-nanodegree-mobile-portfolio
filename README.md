@@ -4,8 +4,9 @@ Faça o download do arquivo zip no GitHub para uma pasta local e abra o arquivo 
 # Otimizações
 
 ## index.html
-	Foi otimizado o tamanho da imagem da pizza, minificado o arquivo css e arrumado o link da fonte do google.
+	Foi otimizado o tamanho das imagens, colocado o CSS inline e arrumado o link da fonte do google.
+
 
 ## views/js/main.js
-	As pizzas se movendo no fundo da página foram eliminadas para melhor performace e visual mais limpo.
 	Refatorada a função de mudar o tamanho da pizza ao alterar o slider.
+	Refatorada a função de mover as pizzas no background
